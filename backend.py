@@ -133,14 +133,7 @@ roman = {
     'CM' : 900,
     'M' : 1000,
     '' : 0
-    }
-
-
-    
-
-
-
-###define the coversion function###
+    } 
 
 def RomanConvert(x):
     
