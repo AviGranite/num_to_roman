@@ -25,7 +25,7 @@ hundreds = {
 def NumToRoman(x):
     
 
-    """Convert an integer to a Roman numeral (max 3999)"""
+    """Convert an integer to a Roman numeral between 1-3999"""
 
         
     while int(x) < 4000 and int(x) > 0:
