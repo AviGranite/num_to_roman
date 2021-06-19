@@ -22,7 +22,7 @@ hundreds = {
     }
 
 
-def NumToRoman(x):
+def num_to_roman(x):
     
 
     """Convert an integer to a Roman numeral between 1-3999"""
@@ -135,7 +135,7 @@ roman = {
     '' : 0
     } 
 
-def RomanConvert(x):
+def roman_convert(x):
     
     """Converts roman numeral to number"""
     
